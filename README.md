@@ -28,6 +28,6 @@ The Latin Square Game is a C-based console application that allows users to inte
    ```bash
    gcc -o latin_square latin_square.c
 
-4. Run the program using ./latinsquare inputfile.txt    => inputfile is your inputfile name!!
-
-5. HAPPY GAMING !!!
+4. Run the program using: => (inputfile is your inputfile name!!)
+ ```bash
+ ./latinsquare inputfile.txt    
